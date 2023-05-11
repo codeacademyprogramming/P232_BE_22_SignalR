@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P232Chat", "P232Chat\P232Chat.csproj", "{DD4DDF43-A86B-4AEA-914C-12EC624A13F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4DDF43-A86B-4AEA-914C-12EC624A13F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4DDF43-A86B-4AEA-914C-12EC624A13F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4DDF43-A86B-4AEA-914C-12EC624A13F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4DDF43-A86B-4AEA-914C-12EC624A13F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7062FE0B-5AF6-46D7-A877-8C5D103C3590}
+	EndGlobalSection
+EndGlobal
